@@ -1,7 +1,7 @@
 #include <Novice.h>
 #include "Manager/GameManager.h"
 
-const char kWindowTitle[] = "LE2D_09_コウザキ_ルカ";
+const char kWindowTitle[] = "LE2A_03_イソガイ_ユウト";
 
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	SetConsoleOutputCP(65001);
